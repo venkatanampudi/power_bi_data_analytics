@@ -10,6 +10,6 @@ Architecture / High-level workflow:
 SQL Server --> Power BI Desktop --> Dashboards/Reports
 
 Tech Stack: 
-•	Microsoft Power BI Desktop
-•	SQL Server 2025
-•	SQL Server Management Studio (SSMS) 22.2.1
+- Microsoft Power BI Desktop
+- SQL Server 2025
+- SQL Server Management Studio (SSMS) 22.2.1
